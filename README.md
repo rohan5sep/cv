@@ -10,7 +10,7 @@ With over a decade of experience in software engineering, currently contributing
 
 ## Professional Experience
 
-### [Siemens PLM Software)](https://www.sw.siemens.com/en-US/)
+### [Siemens PLM Software] (<https://www.sw.siemens.com/en-US/>)
 
 #### SE - Software Architect (2024 — present)
 
