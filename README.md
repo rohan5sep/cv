@@ -73,6 +73,19 @@ integration with UI Comp Components.
 - Wrote parsing algorithm to handle customized text in the view label.
 - Worked on Grid Labels to provide view tracking information.
 
+## Technical Skills
+
+- Programming: C++, Python, C, Shell Scripting, STL and algorithms  
+- CAD & Design: NX, FreeCAD (2D/3D Design & Modeling)
+- Operating Systems: Linux, Windows
+- Image Processing: OpenCV, libcamera
+- AI & ML Basics: Neural network coding using TensorFlow, basic AI/LM integration
+projects
+- Electronics & IoT: Microcontrollers (ESP8266, ESP32), sensor integration, IoT systems
+design
+- Version Control: Git, GitHub, GitLab
+- Build & Automation: Make, CMake,
+
 ## Key Projects
 
 - Model view planes.
