@@ -92,9 +92,9 @@ integration with UI Comp Components.
 
 ### [Convolutional Neural Networks in TensorFlow](<https://www.coursera.org/account/accomplishments/verify/M6FFNN9NQRAJ>)
 
-#### [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning] (<https://www.coursera.org/account/accomplishments/verify/E37AE1TTG7KP>)
+#### [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](<https://www.coursera.org/account/accomplishments/verify/E37AE1TTG7KP>)
 
-#### [Mindware: Critical Thinking for the Information Age] (<https://www.coursera.org/account/accomplishments/verify/7JVCBG79XO0D>)
+#### [Mindware: Critical Thinking for the Information Age](<https://www.coursera.org/account/accomplishments/verify/7JVCBG79XO0D>)
 
 ## Personal Interests
 
