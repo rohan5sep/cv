@@ -10,7 +10,7 @@ With over a decade of experience in software engineering, currently contributing
 
 ## Professional Experience
 
-### [Siemens PLM Software] (<https://www.sw.siemens.com/en-US/>)
+### [Siemens PLM Software](<https://www.sw.siemens.com/en-US/>)
 
 #### SE - Software Architect (2024 — present)
 
@@ -84,13 +84,13 @@ integration with UI Comp Components.
 
 ## Education
 
-### [Msc. Electronics, University of Nagpur, 2007] (<https://nagpuruniversity.ac.in/>)
+### [Msc. Electronics, University of Nagpur, 2007](<https://nagpuruniversity.ac.in/>)
 
-### [CDAC — Pune] (<https://www.cdac.in/>)
+### [CDAC — Pune](<https://www.cdac.in/>)
 
 ### Certifications
 
-### [Convolutional Neural Networks in TensorFlow] (<https://www.coursera.org/account/accomplishments/verify/M6FFNN9NQRAJ>)
+### [Convolutional Neural Networks in TensorFlow](<https://www.coursera.org/account/accomplishments/verify/M6FFNN9NQRAJ>)
 
 #### [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning] (<https://www.coursera.org/account/accomplishments/verify/E37AE1TTG7KP>)
 
@@ -99,5 +99,4 @@ integration with UI Comp Components.
 ## Personal Interests
 
 - Astrophotography and camera hardware design; Embedded electronics and sensor
-integration; 3D printing and mechanical design optimization. CAD designing.
-Some of my original work and contributions to famous repositories can be found [here.] (<https://www.printables.com/@rohan5sep_2207991>)
+integration; 3D printing and mechanical design optimization. CAD designing. [My contributions on Printables](<https://www.printables.com/@rohan5sep_2207991>)
